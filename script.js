@@ -15,7 +15,7 @@
      Formato: 52 + 10 dígitos. Si queda vacío, los botones y el envío de
      WhatsApp se ocultan con elegancia.
      ─────────────────────────────────────────────────────────────────────── */
-  const WHATSAPP_NUMBER = '526572887570';
+  const WHATSAPP_NUMBER = '526572887323';
 
   /* ═══ Utilidades ═══ */
   const $ = (s, c = document) => c.querySelector(s);
